@@ -1,0 +1,8 @@
+.pio
+.vscode
+.idea
+*.pyc
+.DS_Store
+
+# Archivo de credenciales locales
+include/credentials.h
